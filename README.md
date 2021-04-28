@@ -102,3 +102,4 @@ You can view the current state at http://localhost:5984/_utils/.
     
     cd $HOME/fabric-samples/test-network
     ./network.sh down
+    
